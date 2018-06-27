@@ -1,0 +1,9 @@
+.button input{
+	margin-left: 5px;
+	border-radius: 5px;
+	font-family: halvetica;
+	background:linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%); 
+	box-shadow: -1px -2px -1px;
+
+
+}

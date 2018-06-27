@@ -1,0 +1,23 @@
+table, tr, td{
+	border:  1px solid black;
+	border-collapse: collapse;
+
+}
+td{
+	height:25px;
+	width:25px;
+}
+
+td:first-child {
+	padding-right: 25px;
+	border-left: none;
+	border-top: none;
+	border-bottom: none;
+}
+
+.word{
+	height: 50px;
+	border-right: none;
+	border-left: : none;
+	border-bottom: none;
+}
